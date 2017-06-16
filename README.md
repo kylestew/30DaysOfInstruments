@@ -12,6 +12,6 @@ For the month of April I challenged myself to create 30 instruments in 30 days. 
 + Arduino C/C++
 + Physical patching of a modular synth
 
-### Read the [Blog Post](https://medium.com/@KyleRStewart)
+### Read the [Blog Post](https://medium.com/@KyleRStewart/30-days-of-instruments-fc27df7a2600)
 
 ### Videos Posted on [Instagram](https://instagram.com/kylestew/) and [Vimeo](https://vimeo.com/user15124505)
