@@ -1,0 +1,11 @@
+Day 11: NS1virtual Waveshaping
+
+Virtual version of yesterdays post. This thing was hard to play and didn’t sound near as good as the analog synth version.
+
+Patch Details:
+- (see yesterdays post for patch details)
+
+Learned:
+I’m starting to understand what an analog synth is good for and where digital can be useful as well. One example: the digital inputs will need to be a lot more precise then I’ve been working with to match the analog knobs I’ve been working with. On the flip side, once they are they can be saved and recalled whereas the analog patch may never be able to be reproduced exactly. #tradeoffs
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker

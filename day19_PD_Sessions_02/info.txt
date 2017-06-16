@@ -1,0 +1,15 @@
+Day 19: Pure Data Sessions 02
+
+First time synthesizing drums, not to far off my own TB-303!
+
+Details:
+- Main clock drives 2 16 beat sequencers
+- Main clock divided by 16 and again by 2 and 4, outputs of clock dividers change sequencer banks
+- Sequencer 1 drives a kick drum simulator
+- Sequencer 2 drives a snare drum simulator
+- Kick and Snare settings are adjusted live with the nanoKontrol inputs
+
+Learned:
+Drums are a whole different lesson in synthesis. From a physics perspective, drums are seriously hard to simulate. Whereas a string is 2 dimensional, the drum head is 3D and introduces all sorts of vibrational complexity. These synthesized drums might not sound very close to the real thing but they have a unique and interesting sound all their own.
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker #pd #puredata

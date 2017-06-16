@@ -1,0 +1,11 @@
+Day 17: Teensy Sessions - Teensy MIDI Slave II
+
+Continuing yesterdays session to see how much sound I can get out of the Teensy. It took a long play session before I started getting something approaching music.
+
+Details:
+(see yesterday for setup)
+
+Learned:
+Scale and key changes can help make a repetitive sequence a little more interesting. This is the last session I will be doing with the Teensy this month but I’m amazed how much audio power this $20 board has.
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker

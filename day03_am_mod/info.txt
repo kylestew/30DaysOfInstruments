@@ -1,0 +1,11 @@
+Day 03: AM Monster
+
+Started out as a study of AM synthesis - ended up sounding like Wall-E. 
+
+Details:
+Random frequency changes drive the frequency of the main oscillator. The player can adjust the speed of the random note changes as well as the speed and depth of the amplitude modulation via a midi controller (I’m using the Korg NanoKontrol). Threw in a low pass filter with resonance to give it that classic wah-wah sound.
+
+Learned:
+A basic understanding of amplitude modulation with some experience of the sounds it can produce. I also understand better how an LFO can assist in modulation of amplitude or other parameters. This knowledge will soon be useful I’m sure.
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths

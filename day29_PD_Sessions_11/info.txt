@@ -1,0 +1,17 @@
+Day 29: Pure Data Sessions 11
+
+*** Last Pure Data session for this 30 day challenge! Tomorrow brings something I’ve been working on all month and am excited to share. ***
+
+I’m really trying to go from noise to an actual musical composition. Today’s patch started as a patch I was studying from @in_the_arms_of_somnus which sounds amazing (check track one on his new album). I wanted to fully understand it and make it my own composition so I’ve tweaked almost all of it, yet I loved the basic sound so it still shines through.
+
+Details:
+- Sine oscillator driven by a 16 note sequencer that randomly changes every 8 measures
+- Main voice: 8 step sequencer controlled by 3rd and 5th beats of a clock
+- Both oscillators filtered and cutoff is used to bring in/out it’s voice in the mix
+- Triangle oscillator through reverb that gives the background drone
+- Subtle-ish kick drum that can be faded in through a VCA
+
+Learned:
+Learn so much by digesting the patch from @in_the_arms_of_somnus. My favorite new skill is using multiple outlets from a clock divider to cut up a beat. The main voice of this patch uses the 3rd and 5th beats from a clock to make an 8 step sequencer sound a little more like someone playing notes on a keyboard.
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker #pd #puredata #automatonism

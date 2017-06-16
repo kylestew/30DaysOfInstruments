@@ -1,0 +1,13 @@
+Day 06: Arpeggiated Keyboard
+
+Been putting off making this for far too long. Old school synthesizers were polyphonic which means they can only play one note at a time. How do you play a cord then? Arpeggiation!
+
+Details:
+- Note on/offs feed into a custom Javascript object that keeps the current arpeggiated chord in memory and ordered
+- Metronome bangs the javascript object for the next note
+- Standard oscillator —> ADSR —> lowpass filter setup for noise making
+
+Learned:
+I haven’t done much with Javascript in MaxMSP. This is one of those cases though where it would have taken hours to figure out how to do this with patcher objects. Doing it in code took a lot less time. Now I just need to learn my musical theory and chords.
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental

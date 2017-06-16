@@ -1,0 +1,14 @@
+Day 18: Pure Data Sessions 01
+
+Gearing up to create some instruments on hardware and its looking like Pure Data is a great way to go. So it’s time to finally learn how to use it. Luckily I came across Automatonism (https://www.automatonism.com/), which is a bunch of pre-made modular synth abstractions for PD. It’s like an easier to use version of Beap.
+
+Details:
+- Pulse wave OSC —> Lowpass Filter —> VCA —> DAC
+- AHR envelope generator controls LPF cutoff
+- Another AHR envelope generator controls CV of VCA for distinct notes
+- LFO driving pulse width modulation on main OSC
+
+Learned:
+I miss MaxMSP already, it’s just so much easier to use and provides a ton of options. That being said, PD can do everything that Max does with the right extensions and custom programming. Time to get to work!
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker #pd #puredata

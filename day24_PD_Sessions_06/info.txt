@@ -1,0 +1,14 @@
+Day 24: Pure Data Sessions 06
+
+Playing with Wavetable synthesis in PD. Adding more channels to the mixer can really increase the use of existing modules. I really feel like the kick drum added a ton to this patch even though it was the simplest piece.
+
+Details:
+- Two wavetables oscillators driven with the same X/Y/Z inputs but at a different pitch
+- Each wavetable OSC is given a random base pitch over time due to clock changes and the use of probability and random voltage modules
+- Second wavetable goes through a granular delay creating the background drone texture
+- 3 LFOs are slowly sweeping the wavetables inputs
+
+Learned:
+The wavetable oscillator contains 18 wavetables that you can scan, morph and crossfade. I’m not sure exactly what that means but that’s what we are hearing and I think it sounds pretty neat!
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker #pd #puredata

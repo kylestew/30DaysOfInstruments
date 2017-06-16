@@ -1,0 +1,15 @@
+Day 13: NS1virtual Clock Division
+
+Designing this one virtually before grabbing the patch cables and my NS1. This is a patch inspired by the creator of the NS1 that uses the clock divider in multiple clever ways at once. It took a bit of thinking and research to figure out how to virtually simulate the clock divider. Its a pretty useful tool for making your synth build its own musical sequences.
+
+Patch Details:
+- LFO1 is samples for not frequencies on VCO
+- VCO sends the SQR and SAW waves to the SUM/SUB module for some extra crispy sounds
+- LFO2 drives the main clock signal
+- The clock divider is used liberally to control the ADSR, VCA, and VCF
+- Logic modules help combine and send the output to the above modules
+
+Learned:
+I’m just getting started with the possibilities of the clock divider. Its interesting how quickly it turns a single beat into a whole sequence of activity.
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker

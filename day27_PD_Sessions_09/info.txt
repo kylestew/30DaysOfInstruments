@@ -1,0 +1,15 @@
+Day 27: Pure Data Sessions 09
+
+First time playing with a Karplus-Strong module. Also first go at integrating the triad oscillator into a patch. Makes for a lot of subtle background sound.
+
+Details:
+- Karplus module with Contour and Color varied by two LFOs
+- Karplus —> Reverb module with reverb amount varying by a 3rd LFO
+- Main clock drives the strings
+- Clock is divided to trigger a Triad oscillator
+- Over time the triad oscillator changes its base note randomly but quantized to a scale
+
+Learned:
+Although the Karplus module doesn’t sound exactly like strings, it has it’s own distinct sound that has a history in modular synthesis. Many different variations of sound can be achieved by varying contour, dampening, resonance, and color. If you get away from the idea that you have to make it sound like a real instrument, a lot of interesting things can happen.
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker #pd #puredata

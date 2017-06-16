@@ -1,0 +1,17 @@
+Day 30: Patchbay - Pure Data patching on Raspberry Pi
+
+** Last day of my 30 day instrument challenge **
+
+I’ve been cooking this idea and piece of hardware all month so I’m excited to share Patchbay. Build and run Pure Data patches on Raspberry Pi with access to high resolution knobs and encoders. I’m going to be working to package this hardware up in to an easy to use system with the ability to store and cycle through many community designed patches. So stay tuned for updates!
+
+Details:
+- Yesterday’s Pure Data patch was used for today’s demo
+- Raspberry PI 3 (working on Pi Zero compatibility)
+- Multiple analog knobs and 2 linear encoders, other inputs are being tested as well
+- Phat Das from Pimoroni reads I2C audio from Raspberry Pi and converts to stereo audio (not captured well from video)
+- Teensy LC is in charge of input, Raspberry Pi is on top of running the PD patch and spitting out and audio stream.
+
+Learned:
+I’ve come a long way in the last 30 days yet the ideas are just starting to roll in. Music and sound design is uniquely addicting because it doesn’t take too much to get started and every step along the way gives feedback to continue to suck in the enthusiast (victim). It may be easy to begin but the depth to sound design is something I look forward to exploring.
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker #pd #puredata #automatonism

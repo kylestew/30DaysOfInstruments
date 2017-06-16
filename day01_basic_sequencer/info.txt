@@ -1,0 +1,13 @@
+Day 01: Basic Sequencer
+
+Today I’m starting a personal challenge to create an instrument a day for the month of April. No this isn’t an April fools joke, it’s a way for me to challenge my growing skills in audio design. What kind of instruments am I making? I will mostly be focusing on analog and digital instruments… think synthesizers.
+
+What is an instrument anyways? That’s what I’m hoping to discover. What makes a musical instrument playable and engaging? What makes it sound good? What are the essential parts that define a good instrument?
+
+Today’s instrument is my first sequencer and synth combination. It also marks the first thing I’ve created that really allows me to create actual *music*! I’ve already spent hours playing around on it.
+
+Details: MaxMSP patch controls the sequence with a Beap module doing note quantization to a chosen scale. The synth is a simple dual oscillator setup with a low pass filter and an envelope triggered LFO sweeping the cutoff as notes are played. With a few changes in oscillators and some tuning of the second one, quite a few sounds can be made with this setup. The KorgNanoKontrol talks to MaxMSP over USB MIDI and makes this whole setup so much more controllable than using a mouse. 
+
+Learned: I would argue this instrument is not even playable without the realtime control you get with an external midi controller. Being able to use all 8 faders at once gives tons of realtime control to the sequence being played - try that with a mouse! I was also blow away by how much a sequencer adds to the simple synths I’ve already been building. It quickly makes the whole setup so much more fun to play.
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths 

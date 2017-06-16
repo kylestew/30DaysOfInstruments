@@ -1,0 +1,14 @@
+Day 15: Teensy Sessions - Effin FM
+
+Exploring the Teensy as an audio synthesis platform. Paul (my main hacker crush) has, with the help of a great community created the Teensy Audio Library. Teensy is by far my favorite Arduino platform, with the onboard DSP it can’t be beat. Let’s see how effin awesome we can make it sound!
+
+Details:
+- Dual FM sine oscillators modulated by individually tunable oscillators
+- Each modulation oscillator can be a SQR, SINE, SAW, or TRI wave
+- FM oscillators are mixed 50/50 and passed to a lowpass filter
+- Filter runs through a bit crushes at 8bits to dirty up the sound a bit
+
+Learned:
+Right now the only FM oscillator is sine based. Currently the Teensy Audio library is missing quite a few basic building blocks for subtractive synthesis. That doesn’t mean the parts can’t be built, there are great instructions and examples on GitHub to do so.
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker

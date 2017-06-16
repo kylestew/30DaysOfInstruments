@@ -1,0 +1,16 @@
+Day 28: Pure Data Sessions 10
+
+Karplus Khaos
+Adapted an example from the creator of Automatonism. Sounds like an insane orchestra.
+Original patch had a much more chaotic clock system based on looping output of 3 LFOs, pretty insane.
+
+Details:
+- Karplus —> Reverb module driven by 8 step sequencer
+- Strings are triggered through a probability module so they don’t hit on every beat
+- To add to the chaos, contour and color are adjusted over time by LFOs
+- Varied pitch and other params on the kick drum to keep it from getting too repetitive
+
+Learned:
+I’ve gained a pretty good understanding of the building blocks for sound design but am really struggling to turn noise into music. There is a large difference between knowing the tool and creating art with them.
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker #pd #puredata #automatonism

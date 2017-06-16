@@ -1,0 +1,15 @@
+Day 16: Teensy Sessions - Teensy MIDI Slave
+
+Getting a ton of sound out of this little Teensy! A MaxMSP patch orchestrates this one behind the scenes. With more work the Teensy could take on the whole job or reading and sequencing incoming MIDI control messages from the nanoKontrol.
+
+Details:
+- MaxMSP patch implements a quantized sequencer and spits midi notes to the Teensy via USB
+- Control signals are routed from the Korg nanoKnotrol to the Teensy with Max as the bridge (I still don’t know how to put the Teensy in USB host mode)
+- Synth uses two oscillators with OSC2 allowing a two octave detuning
+- Envelope controls the filter cutoff instead of the note on/off
+- LFO & sample & hold in the MaxMSP patch is actually controlling the changes to the filter cutoff since I can’t do that kind of operation in the Teensy library :(
+
+Learned:
+Ran into quite a bit of trouble and opportunity to learn on this one. Since the Teensy audio library doesn’t have a lot of options, I had to change some parameters through method calls in the code instead of in the wired up signal network. That is to say, some knobs were not controlling this thing at audio rate. You can totally hear the scratching when those knobs are used. Future updates to the Teensy audio library will hopefully add more audio rate controls.
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker

@@ -1,0 +1,15 @@
+Day 26: Pure Data Sessions 08
+
+Can you tell I really like delay?
+I really like delay!
+Here is another drony recording but this time with the drums as the lead instrument.
+
+Details:
+- 8 step sequencer driving snare drum pitch
+- Trigons oscillator for some really strange triangle based sound
+- Output of oscillator is fed through a wave folder to add more harmonics
+
+Learned:
+Delay can be played by buffering in sound with the right timing. It seems like it would be tricky but it’s pretty intuitive to feel that sound entering at one time slice will be adding to the output over so many seconds. It’s interesting to see what you can layer into the delay buffer.
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker #pd #puredata

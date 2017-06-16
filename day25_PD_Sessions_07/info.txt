@@ -1,0 +1,14 @@
+Day 25: Pure Data Sessions 07
+
+This started out as an experiment with wave folding and ended up in drone city! I spent over an hour playing with different adjustments to see what kind of soundscape I could create.
+
+Details:
+- Dual oscillators feeding into dual wave fold modules
+- Wave fold amount slowly adjusts via an LFO which can be cranked up using a slider input
+- Both OSC/Wavefold combinations are filtered to pull out the harsh high end tones wave folding creates
+- The second lower pitched oscillator runs through a ladder filter / reverb combo to give the drone its main voice
+
+Learned:
+Wave folding needs to be filtered or band limited in some way otherwise there are some pretty harsh artifacts.
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker #pd #puredata

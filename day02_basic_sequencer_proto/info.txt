@@ -1,0 +1,16 @@
+Day 02: Basic Sequencer - Prototype
+
+Behind the scenes version of yesterday’s instrument. This Max patch is one of the most complicated and certainly the messiest I’ve ever created. It’s also the most fun to play around with!
+
+Details:
+- Speed of sequence can be adjusted
+- Key of notes are quantized to a chose scale using a Beap module
+- Dual oscillators with multiple waveforms
+- Oscillator 2 has pitch and fine tune controls
+- Low pass filter with LFO driving cutoff frequency
+- LFO is tied to the same envelope that triggers notes
+
+Learned:
+This really pushed my skills with MaxMSP. Maybe the most important point I learned though was to just let the patch be messy. Given that I’m making one of these a day, I don’t have the time to keep my proper and neat patching style alive.
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths 

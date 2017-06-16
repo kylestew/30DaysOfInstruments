@@ -1,0 +1,13 @@
+Day 10: NS1 Brutal Waveshaping
+
+The NS1 comes with multiple basic oscillators but that’s just the beginning of the waveforms you can create with it. By combining the sum/sub module and oscillator sync, very interesting waveforms can be created. I bet there are many more waveforms hidden in this synth!
+
+Patch Details:
+- Waves combined in the sum/sub module: Sub oscillator(+) / Saw wave(-)
+- LFO2 input as oscillator sync and turned up to audio range - this makes the output snap to notes
+- Ribbon cable as v/oct CV input to oscillator makes this synth patch playable
+
+Learned:
+The sum/sub module allows for the combination of waves without going out of the 0-5v audio signal range in this synth. Although if you hit that limit distortion occurs, which can be used to your advantage. It takes a bit to wrap you head around the math, but its easy enough to just try different combinations and listen to the resulting wave.
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker

@@ -1,0 +1,15 @@
+Day 09: NS1virtual Computer Music
+
+I’m beginning to build out a virtual version of the NS1nanosynth in MaxMSP. This will allow me to fully understand what’s going on with all the audio signals and hopefully give me new patching ideas. I’m also working on extending the synth through an Arduino add on. Using Max to prototype shouled allow me to find the exact design without spending a bunch of money and time on hardware.
+
+Patch Details:
+- LFO1 triangle wave out to sample & hold input
+- LFO2 rect wave out to sample & hold trigger
+- Output of sample & hold controls VCO pitch via V/oct input
+- Output of sample & hold also controls CV input of LFO to vary the cutoff frequency randomly
+- LFO2 rect wave also triggers ADSR gate in sync with note changes
+
+Learned:
+Virtual synths just don’t sound as good as the real thing!
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker

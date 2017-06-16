@@ -1,0 +1,16 @@
+Day 21: Pure Data Sessions 03
+
+Sequencing the sequencer (and other new things learned)
+
+Details:
+- Dual bandwidth limited oscillators for that smoother sound
+- OSC —> Mixer —-> Lowpass Filter
+- AHR envelope drives the VCA and a bit of the LPF cutoff frequency
+- Main clock drives sequencer
+- Clock is divided by 16 and again by 4 which is fed into random voltages modules and then quantized to a note
+- Two notes combined to give the sequence a base note change every 4 measures
+
+Learned:
+Continuing to expand on composition instead of noise, hopefully towards making music instead of just sound. Quantization of notes really helps in this process. I also learned that bandwidth limited oscillators aren’t standard in PD like they are in MSP.
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker #pd #puredata

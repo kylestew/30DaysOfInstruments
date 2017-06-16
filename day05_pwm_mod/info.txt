@@ -1,0 +1,15 @@
+Day 05: Pulse Wave Modulation
+
+What happens when you sweep the duty cycle on a pulse wave? Magic!
+I’m quickly realizing how bad a platform Instagram is to show of these instruments. You just can’t experience the nuances in the sound on tine mobile speakers :(
+
+Details:
+- Single square (rect~) oscillator
+- LFO sweeps the duty cycle of the square osc
+- Frequency and depth of LFO can we adjusted
+- Added a LPF because filters are awesome
+
+Learned:
+In order to make PWM work effectively, a bit of math must be done. You want the frequency of the LFO driving the duty cycle changes to be a multiple of the frequency you are driving you main oscillator. If not, different notes will have different effect. Usually you want to ride that edge where your LFO and main oscillator have the correct interference pattern in their frequencies. Sounds complicated but you know it when you hear it.
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental

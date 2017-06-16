@@ -1,0 +1,14 @@
+Day 22: Pure Data Sessions 04
+
+Format synthesis - now we’re talking!
+
+Details:
+- OSC1 in Saw mode (seems to work best for vocals) is gated through a VCA driven by an envelope to create notes
+- Formant filter is used to shape sound into something approximating human speech
+- Mixing in a second oscillator for some background notes
+— Using the main clock + clock divider from yesterday to keep the notes changing automatically
+
+Learned:
+Formant synthesis uses the resonance and cutoff of a filter to approximate the vowel sounds from human speech. If you were to record the human voice and grab the frequency chart, you would see peaks during vowels. The format filter helps approximate those.
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker #pd #puredata

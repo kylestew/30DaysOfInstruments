@@ -1,0 +1,16 @@
+Day 08: NS1 Computer Music
+
+The classic computer noise from all those old movies… now on your synth!
+This patch uses the sample & hold module to vary the notes played and the cutoff frequency of the LFO.
+
+Patch Details:
+- LFO1 triangle wave out to sample & hold input
+- LFO2 rect wave out to sample & hold trigger
+- Output of sample & hold controls VCO pitch via V/oct input
+- Output of sample & hold also controls CV input of LFO to vary the cutoff frequency randomly
+- LFO2 rect wave also triggers ADSR gate in sync with note changes
+
+Learned:
+How useful the sample & hold module can be. I wish there was another one on this synth so I can feed in/out other signals. I’ve got something in the works that might help with that.
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker

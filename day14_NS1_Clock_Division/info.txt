@@ -1,0 +1,11 @@
+Day 14: NS1 Clock Division
+
+Yesterdays MaxMSP virtual setup patched and recorded on the NS1.
+
+Patch Details:
+- See yesterday, this is an exact replica of the virtual patch
+
+Learned:
+Everything sounds better in hardware!
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker

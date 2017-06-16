@@ -1,0 +1,12 @@
+Day 12: FM Mod Mod
+
+Studying FM modulation in detail. In order for FM modulation to work it has to be a multiple to the frequency of the note you are playing. You can’t just set it to one value and go to town on the keyboard. There is actually a ration that determines the updated value to be set per note.
+
+Patch Details:
+- Basic subtractive synthesis setup: OSC -> Envelope -> Lowpass Filter
+- Harmonicity ratio and modulation index math implemented in patch
+
+Learned:
+MaxMSP has really really really great docs that teach you Max and sound design at the same time. Today’s learning came from tutorial 11 of the MSP tutorials (https://docs.cycling74.com/max5/tutorials/msp-tut/mspchapter11.html)
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker

@@ -1,0 +1,12 @@
+Day 20: Weird Loops
+
+Well that got weird quick…
+Getting my feet wet (not all of us can sit on tall buildings) with audio sampling and looping. Really weird what kind of sounds you can get with this, especially when you grab and loop very small chunks of audio.
+
+Details:
+The groove~ object powerful sample looping module that pull from a buffer~ object. As you can hear, the pitch can be changed as well as the start/end points of the loop. Midi notes were mapped to playback speed in this patch.
+
+Learned:
+Audio sampling and playback is a whole different beast compared to analog synthesis. I’m realizing a little of the power and expressiveness of sounds that can be created from it. Soon I will be digging into granular synthesis, which will be super awesome.
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental

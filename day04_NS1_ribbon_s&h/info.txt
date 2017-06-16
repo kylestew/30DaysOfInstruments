@@ -1,0 +1,14 @@
+Day 04: NS1 Ribbon + Sample & Hold
+
+Finally got this toy in the mail and have been having a lot of fun setting up different patches. It’s small but the #NS1nanosynth includes a lot of features and extensibility. This patch uses the ribbon controller to control pitch and the sample and hold module to adjust the filter cutoff on a beat.
+
+Patch Details:
+- Saw wave —> Lowpass Filter —> VCA
+- LFO —> ADSR —> VCA CV
+- Ribbon Hold —> VCO 1v/octave CV
+- LFO —> Lowpass Filter CV
+
+Learned:
+It’s been great to finally get hands on experience with the basic components of a synth. All my experience thus far has pretty much just been in MaxMSP. Now I get to move around wires and hear the output in realtime. This is also the first time I’ve incorporated the sample and hold module into a patch.
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental

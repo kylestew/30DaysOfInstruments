@@ -1,0 +1,14 @@
+Day 23: Pure Data Sessions 05
+
+Realtime 8 step sequencer controlled by nanoKnotrol via MIDI. Learning how to control sequences more and more.
+
+Details:
+- Basic PWM modulated oscillator in pulse wave mode
+- Lowpass “analog” filter with slowly varying cutoff and resonance for extra texture
+- Reverb module
+- Random restart of sequencer at beat 4 using the probability module and a clock divider
+
+Learned:
+This is my first time diving in and editing the Automatonism modules in Pure Data. Pure Data is proving easier to learn then Max which might be because its simpler or because I already learned Max. Probably both.
+
+#30daysofinstruments #instrumentaday #synthesizers #synths #maxmsp #patching #patch #cycling74 #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker #pd #puredata

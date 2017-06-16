@@ -1,0 +1,14 @@
+Day 07: NS1 Midi Input
+
+Midi input was surprisingly easy with the #NS1nanosynth because of its onboard Arduino Leonardo with custom Midi handling software. You can connect direct to a computer or iPad and capture output on channel 1.
+
+Patch Details:
+- Midi input via USB to 1v/octave CV
+- Midi CV controls VCO pitch
+- Note on/offs control ADSR envelope
+- LPF with LFO sweeping cutoff frequency
+
+Learned:
+The Arduino Leonardo has a ton of functionality including 7 PWM outputs. With the right coding, each can be used to control functionality on the analog synthesis hardware the NS1 has onboard. The bridge between digital and analog is simple but it’s yet to be seen how exact you need to be to have an in tune instrument.
+
+#instrumentaday #30daysofinstruments #synthesizers #maxmsp #audio #makenoise #patching #mathmusic #electronicsmusic #digitalaudio #analogsynths #electronics #creative #sounddesign #recording #sound #experimental #arduino #maker
